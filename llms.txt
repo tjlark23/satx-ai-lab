@@ -1,0 +1,43 @@
+# SATX AI Lab
+
+> SATX AI Lab provides hands-on AI training, consulting, and implementation for small businesses in San Antonio metro, Texas. Founded by TJ Larkin, we serve San Antonio, Alamo Heights, Stone Oak, Schertz, Converse, New Braunfels, and Boerne.
+
+## About
+
+SATX AI Lab is led by TJ Larkin, an AI consultant and media operator based in Liberty Hill, Texas. TJ runs a 145,000+ subscriber newsletter network, co-founded lightbreak.ai, and builds with Claude Code, ChatGPT, voice agents, and workflow automation daily.
+
+Services: 75-minute AI Consulting Sessions ($299), AI On Call monthly advisory ($799/month), and on-site team AI training (custom quoted) for businesses across the San Antonio metro area.
+
+## Key Pages
+
+- [Homepage](https://www.satxailab.com/): Services overview, founder bio, and booking
+- [About TJ Larkin](https://www.satxailab.com/about): Founder background, experience, credentials
+- [Services](https://www.satxailab.com/services): Full breakdown of AI Consulting, AI On Call, On-Site Training
+- [Contact](https://www.satxailab.com/contact): Booking and application
+- [Blog](https://www.satxailab.com/blog): Practical AI articles for local business owners
+
+## City Pages
+
+- [AI Training in San Antonio](https://www.satxailab.com/ai-training-san-antonio)
+- [AI Training in Alamo Heights](https://www.satxailab.com/ai-training-alamo-heights)
+- [AI Training in Stone Oak](https://www.satxailab.com/ai-training-stone-oak)
+- [AI Training in Schertz](https://www.satxailab.com/ai-training-schertz)
+- [AI Training in New Braunfels](https://www.satxailab.com/ai-training-new-braunfels)
+
+## Featured Articles
+
+- [Five Pages Every Local Business Needs for AI Search](https://www.satxailab.com/blog/five-pages-every-local-business-needs-for-ai-search/)
+- [How to Get Found by ChatGPT and AI Search](https://www.satxailab.com/blog/how-to-get-found-by-chatgpt-ai-search/)
+- [AI Voice Agents: Every Missed Call Becomes a Booked Customer](https://www.satxailab.com/blog/ai-voice-agents-missed-calls-booked-customers/)
+- [The $20 AI Stack That Runs a Small Business](https://www.satxailab.com/blog/the-20-dollar-ai-stack-that-runs-a-small-business/)
+- [ChatGPT vs Perplexity vs Google AI Overviews for Local Business](https://www.satxailab.com/blog/chatgpt-vs-perplexity-vs-google-ai-overviews-for-local-business/)
+
+## Sister Sites
+
+For Austin metro businesses, see ATX AI Lab at https://www.atxailab.com. For Williamson County businesses (Round Rock, Georgetown, Cedar Park, Leander), see WilCo AI Lab at https://www.wilcoailab.com. Same team, different service areas. SATX AI Lab focuses on San Antonio metro including Alamo Heights, Stone Oak, Schertz, and New Braunfels.
+
+## Contact
+
+- Email: tj@wilcoguide.com
+- Website: https://www.satxailab.com
+- Founder LinkedIn: https://www.linkedin.com/in/tjlarkin
