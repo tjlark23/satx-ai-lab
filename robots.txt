@@ -54,5 +54,3 @@ Allow: /
 
 User-agent: *
 Allow: /
-
-Sitemap: https://www.satxailab.com/sitemap.xml
